@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/taichino/croniter.svg?branch=master
+    :target: https://travis-ci.org/taichino/croniter
+
 Introduction
 ============
 
